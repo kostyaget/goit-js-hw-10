@@ -1,5 +1,5 @@
 import './css/styles.css';
-import debonce from 'lodash.debonce'
+import debounce from 'lodash.debounce'
 import API from './js/fetchCountries'
 import Notiflix from 'notiflix';
 
