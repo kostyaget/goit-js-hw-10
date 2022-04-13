@@ -5,7 +5,8 @@ function fetchCountry(name) {
             throw Error ('Oops, there is no country with that name')
             }
             return response.json()
-    })
-    
+        })
 }
+   
+
 export default { fetchCountry };
