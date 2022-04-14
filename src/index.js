@@ -43,3 +43,4 @@ function renderCountryList(data) {
     `;
     countryInfoEl.innerHTML = countrie;
  }
+ 
